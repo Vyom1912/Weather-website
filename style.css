@@ -101,7 +101,7 @@ body {
   bottom: 0;
   left: 50%;
   transform: translate(-50%, 0);
-    width: fit-content;
+  width: fit-content;
   font-size: 12px;
   margin: auto;
   text-align: justify;
